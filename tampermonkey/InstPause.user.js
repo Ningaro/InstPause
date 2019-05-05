@@ -8,6 +8,8 @@
 // @license      MIT
 // @icon         https://raw.githubusercontent.com/Ningaro/InstPause/master/bin/icon32.png
 // @icon64       https://raw.githubusercontent.com/Ningaro/InstPause/master/bin/icon64.png
+// @updateURL    https://openuserjs.org/meta/Ningaro/InstPause.meta.js
+// @copyright    2019, Ningaro (https://openuserjs.org/users/Ningaro)
 // ==/UserScript==
 
 //"use strict";
