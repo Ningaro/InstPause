@@ -6,7 +6,8 @@
 // @author       Ningaro & Programant
 // @include      https://www.instagram.com/*
 // @license      MIT
-// @icon         https://raw.githubusercontent.com/Ningaro/InstPause/master/bin/icon.png
+// @icon         https://raw.githubusercontent.com/Ningaro/InstPause/master/bin/icon32.png
+// @icon64       https://raw.githubusercontent.com/Ningaro/InstPause/master/bin/icon64.png
 // ==/UserScript==
 
 //"use strict";
