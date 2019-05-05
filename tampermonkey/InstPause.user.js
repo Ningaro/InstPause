@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         InstPause
 // @namespace    https://github.com/Ningaro/InstPause
-// @version      3.2
+// @version      3.1
 // @description  InstPause by Ningaro, press P button when you watch stories.
 // @author       Ningaro & Programant
 // @include      https://www.instagram.com/*
